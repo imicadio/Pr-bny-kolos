@@ -1,0 +1,6 @@
+G:\PROGRAMOWANIE OBIEKTOWE\probny_kolos\probnyKolos\probnyKolos\bin\Debug\probnyKolos.exe.config
+G:\PROGRAMOWANIE OBIEKTOWE\probny_kolos\probnyKolos\probnyKolos\obj\Debug\probnyKolos.csprojResolveAssemblyReference.cache
+G:\PROGRAMOWANIE OBIEKTOWE\probny_kolos\probnyKolos\probnyKolos\bin\Debug\probnyKolos.exe
+G:\PROGRAMOWANIE OBIEKTOWE\probny_kolos\probnyKolos\probnyKolos\bin\Debug\probnyKolos.pdb
+G:\PROGRAMOWANIE OBIEKTOWE\probny_kolos\probnyKolos\probnyKolos\obj\Debug\probnyKolos.exe
+G:\PROGRAMOWANIE OBIEKTOWE\probny_kolos\probnyKolos\probnyKolos\obj\Debug\probnyKolos.pdb
